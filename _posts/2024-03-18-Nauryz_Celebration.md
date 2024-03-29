@@ -1,6 +1,6 @@
 ---
 title: Nauryz 2024
-date: 2024-03-28 12:00:00 -500
+date: 2024-03-18 12:00:00 -500
 categories: [Events]
 tags: [events, nauryz, north]
 ---
