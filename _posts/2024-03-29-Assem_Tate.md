@@ -1,6 +1,6 @@
 ---
 title: Assem Tate
-date: 2024-03-17 12:00:00 -500
+date: 2024-03-29 12:00:00 -500
 categories: [Food, Takeout]
 tags: [food, takeout, north]
 ---

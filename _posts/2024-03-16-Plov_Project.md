@@ -1,6 +1,6 @@
 ---
 title: pLOVE Project, LLC
-date: 2024-03-19 12:00:00 -500
+date: 2024-03-16 12:00:00 -500
 categories: [Food, Catering, Takeout]
 tags: [food, takeout, catering, uzbek, korean, plov, north]
 ---
